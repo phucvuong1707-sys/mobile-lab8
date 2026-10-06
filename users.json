@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "Nguyen Van An",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=1",
+      "short-bio": "Sinh vien UEH"
+    },
+    {
+      "id": 2,
+      "uname": "Tran Thi Binh",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=2",
+      "short-bio": "Sinh vien nganh He thong thong tin"
+    },
+    {
+      "id": 3,
+      "uname": "Le Van Cuong",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=3",
+      "short-bio": "Sinh vien nganh Ky thuat phan mem"
+    },
+    {
+      "id": 4,
+      "uname": "Pham Thi Dung",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=4",
+      "short-bio": "Sinh vien UEH"
+    },
+    {
+      "id": 5,
+      "uname": "Hoang Van Em",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=5",
+      "short-bio": "Sinh vien nam 3"
+    }
+  ]
+}
