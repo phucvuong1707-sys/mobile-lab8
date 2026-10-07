@@ -4,36 +4,43 @@
       "id": 1,
       "uname": "Nguyen Van An",
       "password": "123456",
-      "url-profile": "https://i.pravatar.cc/300?img=1",
-      "short-bio": "Sinh vien UEH"
+      "url_profile": "https://i.pravatar.cc/300?img=1",
+      "short_bio": "Sinh vien UEH"
     },
     {
       "id": 2,
       "uname": "Tran Thi Binh",
       "password": "123456",
-      "url-profile": "https://i.pravatar.cc/300?img=2",
-      "short-bio": "Sinh vien nganh He thong thong tin"
+      "url_profile": "https://i.pravatar.cc/300?img=2",
+      "short_bio": "Sinh vien nganh He thong thong tin"
     },
     {
       "id": 3,
       "uname": "Le Van Cuong",
       "password": "123456",
-      "url-profile": "https://i.pravatar.cc/300?img=3",
-      "short-bio": "Sinh vien nganh Ky thuat phan mem"
+      "url_profile": "https://i.pravatar.cc/300?img=3",
+      "short_bio": "Sinh vien nganh Ky thuat phan mem"
     },
     {
       "id": 4,
       "uname": "Pham Thi Dung",
       "password": "123456",
-      "url-profile": "https://i.pravatar.cc/300?img=4",
-      "short-bio": "Sinh vien UEH"
+      "url_profile": "https://i.pravatar.cc/300?img=4",
+      "short_bio": "Sinh vien nganh Kinh doanh quoc te"
     },
     {
       "id": 5,
-      "uname": "Hoang Van Em",
+      "uname": "Vo Minh Hoang",
       "password": "123456",
-      "url-profile": "https://i.pravatar.cc/300?img=5",
-      "short-bio": "Sinh vien nam 3"
+      "url_profile": "https://i.pravatar.cc/300?img=5",
+      "short_bio": "Sinh vien nganh Cong nghe thong tin"
+    },
+    {
+      "id": 6,
+      "uname": "Nguyen Thi Mai",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=6",
+      "short_bio": "Sinh vien nganh Marketing"
     }
   ]
 }
